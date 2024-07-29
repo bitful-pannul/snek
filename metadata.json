@@ -1,14 +1,16 @@
 {
     "name": "snek",
-    "description": "",
+    "description": "very simple snake game",
     "image": "",
     "properties": {
         "package_name": "snek",
         "current_version": "0.1.0",
-        "publisher": "template.os",
-        "mirrors": [],
+        "publisher": "bigsnake1.os",
+        "mirrors": [
+            "bigsnake1.os"
+        ],
         "code_hashes": {
-            "0.1.0": ""
+            "0.1.0": "a3fc40129793e78922335704ecf3c306c5fb77129ce67c582671b139374c12ae"
         },
         "wit_version": 0,
         "dependencies": []
