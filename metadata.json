@@ -1,16 +1,16 @@
 {
     "name": "snek",
     "description": "very simple snake game",
-    "image": "",
+    "image": "https://i.imgur.com/Q1GdjbZ.png",
     "properties": {
         "package_name": "snek",
-        "current_version": "0.1.1",
+        "current_version": "0.1.2",
         "publisher": "bigsnake1.os",
         "mirrors": [
             "bigsnake1.os"
         ],
         "code_hashes": {
-            "0.1.0": "8bff878d795ec8083951f8afffc975cc73b29caa5a1f6fc7853e4fdec51db9fb"
+            "0.1.2": "6be80a3f733eed8600e0c343d189c5e65c750d651db286e29674985b9a01b929"
         },
         "wit_version": 0,
         "dependencies": []
