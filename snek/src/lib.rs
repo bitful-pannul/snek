@@ -8,7 +8,7 @@ wit_bindgen::generate!({
 
 call_init!(init);
 fn init(our: Address) {
-    println!("hello ssssss");
+    println!("ssssss");
 
     http::serve_index_html(&our, "ui", false, false, vec!["/"]).unwrap();
     homepage::add_to_homepage("snek", Some(SNEK_SVG), Some("/"), None);
