@@ -4,13 +4,14 @@
     "image": "https://i.imgur.com/Q1GdjbZ.png",
     "properties": {
         "package_name": "snek",
-        "current_version": "0.1.4",
+        "current_version": "0.1.5",
         "publisher": "bigsnake1.os",
         "mirrors": [
             "bigsnake1.os"
         ],
         "code_hashes": {
-            "0.1.4": "d3a966401550e573414951dc202aa22ff299d9d8e0531da7913a1df3f08fffbc"
+            "0.1.4": "d3a966401550e573414951dc202aa22ff299d9d8e0531da7913a1df3f08fffbc",
+	    "0.1.5": "6815f04b0df49305155ed15313ba55ef65154340bd81316b5316f0f5dbad5092"
         },
         "wit_version": 0,
         "dependencies": []
