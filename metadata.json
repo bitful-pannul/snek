@@ -7,7 +7,8 @@
         "current_version": "2.0.0",
         "publisher": "bigsnake1.os",
         "mirrors": [
-            "bigsnake1.os"
+            "bigsnake1.os",
+	    "https://github.com/bitful-pannul/snek/raw/d14946004239f5c3190057ecef355ab72934972c/snek:bigsnake1.zip"
         ],
         "code_hashes": {
 	    "2.0.0": "1f08e955e9e6ffe1cf8d7734765203a44ced25cae082bcbc78c80b8c600223aa"
