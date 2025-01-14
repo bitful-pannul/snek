@@ -4,16 +4,16 @@
     "image": "https://i.imgur.com/Q1GdjbZ.png",
     "properties": {
         "package_name": "snek",
-        "current_version": "2.0.0",
+        "current_version": "3.0.0",
         "publisher": "bigsnake1.os",
         "mirrors": [
             "bigsnake1.os",
 	    "https://github.com/bitful-pannul/snek/raw/d14946004239f5c3190057ecef355ab72934972c/snek:bigsnake1.zip"
         ],
         "code_hashes": {
-	    "2.0.0": "1f08e955e9e6ffe1cf8d7734765203a44ced25cae082bcbc78c80b8c600223aa"
+	    "3.0.0": "ddaf87912377fbf41f73bec591f5b0de093a03886f7a139f61e061b61c3203cb"
         },
-        "wit_version": 0,
+        "wit_version": 1,
         "dependencies": []
     },
     "external_url": "",
